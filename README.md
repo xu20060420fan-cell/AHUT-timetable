@@ -6,6 +6,15 @@
 - **最新 APK（v2.1.25）**：[GitHub Release 下载](https://github.com/xu20060420fan-cell/AHUT-timetable/releases/download/v2.1.25/ahut-schedule-release.apk)
 - **更新引导**：软件每次打开会自动检查更新，按提示完成即可
 
+## 界面预览
+
+![首页·今日课表](assets/screenshots/ahut_home.png)
+![周课表](assets/screenshots/ahut_weekly.png)
+![导入课表](assets/screenshots/ahut_import.png)
+![学习通](assets/screenshots/ahut_study.png)
+![生活服务·电费](assets/screenshots/ahut_life.png)
+![更多](assets/screenshots/ahut_more.png)
+
 ## 用户使用手册
 
 欢迎使用氢课表，本手册将帮助您快速熟悉并使用软件的核心功能。
