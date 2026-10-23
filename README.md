@@ -15,8 +15,11 @@
 
 | 版本 | 架构 | 说明 | 下载 |
 |---|---|---|---|
-| **V1.0.0**（推荐） | Compose 重写 | 功能与体验全面升级 | [GitHub Release 下载](https://github.com/xu20060420fan-cell/AHUT-timetable/releases/download/compose-v1.0.0/hydrogen-schedule-v1.0.0.apk) ｜ [官网下载](https://xspirt.online/portal/home) |
-| 2.1.25 | 原生老架构 | 旧版本，已停止功能更新 | [GitHub Release 下载](https://github.com/xu20060420fan-cell/AHUT-timetable/releases/download/v2.1.25/ahut-schedule-release.apk) |
+| **V1.0.0**（推荐） | Compose 重写 | 功能与体验全面升级 | **[官网直链](https://xspirt.online/uploads/hydrogen-v1.0.0-code232.apk)** ｜ [GitHub Release](https://github.com/xu20060420fan-cell/AHUT-timetable/releases/download/compose-v1.0.0/hydrogen-schedule-v1.0.0.apk) ｜ [官网介绍页](https://xspirt.online/portal/home) |
+| 2.1.25 | 原生老架构 | 旧版本，已停止功能更新 | [GitHub Release](https://github.com/xu20060420fan-cell/AHUT-timetable/releases/download/v2.1.25/ahut-schedule-release.apk) |
+
+> ℹ️ **国内下载建议走官网直链。** GitHub 的安装包下载走的是 GitHub 自己的 CDN，
+> 在大陆线路常常很慢甚至连不上；官网是服务器直连，最快也最稳。
 
 - 下载的是**免安装单文件 APK**，下载后点开即用；首次运行若被系统拦截，点「更多信息 → 仍要运行」。
 - App 每次打开会自动检查更新，收到新版本提示按提示更新即可。
