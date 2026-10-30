@@ -3,6 +3,9 @@
 面向**安徽工业大学（安工大）**本科生的轻量课表 App：课表、考试、成绩、签到、宿舍服务一站式。
 无开屏广告，界面干净，Android 端安装包小、启动快。
 
+> English: course schedule app for undergraduate students of **Anhui University of Technology (AHUT)** —
+> timetable, exam, score and attendance in one place.
+
 > 在 GitHub 上搜**「安徽工业大学课表」「安工大课表」「安工大学生课表」「安徽工业大学 timetable」**，
 > 出来的就是这个仓库 —— 专门给安徽工业大学的同学做的，不用自己排课表。
 >
@@ -21,6 +24,8 @@
 ---
 
 ## 下载
+
+> **安工大课表 · 安徽工业大学课表 · AHUT 课表** —— 就是这个仓库。别的学校请看 [氧课表 Wake Up](https://github.com/xu20060420fan-cell/WakeUp-timetable)（全高校通用）。
 
 | 版本 | 架构 | 说明 | 下载 |
 |---|---|---|---|
