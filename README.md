@@ -7,7 +7,7 @@
 > 出来的就是这个仓库 —— 专门给安徽工业大学的同学做的，不用自己排课表。
 >
 > 其它学校、或者暂时只想用一个不限学校的通用课表 App，请看另一个仓库：
-> [**氧课表 Wake Up（Oxgeny）**](https://github.com/xu20060420fan-cell/Oxgeny-timetable) —— 全高校通用，面向全体大学生。
+> [**氧课表 Wake Up（Oxgeny）**](https://github.com/xu20060420fan-cell/WakeUp-timetable) —— 全高校通用，面向全体大学生。
 
 > 🆕 **V1.0.3 已发布**（V1.0.0 Compose 全新架构版的增量更新）
 >
@@ -143,7 +143,7 @@
 
 ## 关于
 
-- **适用人群**：安徽工业大学（安工大）本科生的**专用**课表 App，绑定教务账号即可自动同步课表；别的学校用不了这一版的自动同步，请用 [氧课表 Wake Up（Oxgeny）](https://github.com/xu20060420fan-cell/Oxgeny-timetable)（全高校通用，面向全体大学生）。
+- **适用人群**：安徽工业大学（安工大）本科生的**专用**课表 App，绑定教务账号即可自动同步课表；别的学校用不了这一版的自动同步，请用 [氧课表 Wake Up（Oxgeny）](https://github.com/xu20060420fan-cell/WakeUp-timetable)（全高校通用，面向全体大学生）。
 - **官网**：<https://xspirt.online> —— 软件下载、晚寝签到、学习通签到、教程与公告都在这里。
 - **在线使用**：不想装 App 也可以，官网的签到服务直接在浏览器里用。
 - **GitHub**：<https://github.com/xu20060420fan-cell> —— 本项目及其它开源工具都在这里。
